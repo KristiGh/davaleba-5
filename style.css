@@ -1,3 +1,4 @@
+/*reset scc*/
 *{
 	margin: 0;
 	padding: 0;
@@ -13,16 +14,13 @@ ul {
 	background-color: #0020F4;
 	padding-top: 30px;
 	padding-bottom: 30px;
-
 }
 .navbar-li {
     color: #fff;
+    margin-left: 50px;
 }
 .logo {
 	margin-left: 50px;
-}
-.navbar-li{
-    margin-left: 50px;
 }
 .list {
 	margin-top: 40px;
@@ -44,3 +42,56 @@ p {
     margin-right: 484.5px;
     margin-top: 60px;
 }
+h3 {
+    color: #fff;
+    background-color:#0A22F4;
+    border-radius: 28px;
+    display: inline-block;
+    font-size: 16px;
+    padding: 20px;
+}
+.footer {
+    background-color: #0A22F4;
+    padding-top: 275px;
+    margin-top: 180px;
+    padding-bottom: 40px;
+}   
+.left {
+    margin-left: 240px;
+}
+.title {
+    color: #FFFFFF;
+    margin-top: 275px;
+    margin-bottom: 30px;
+}
+.text {
+    color: #FFFFFF;
+    display: inline-block;
+    width: 463px;
+    font-size: 16px;  
+}
+.map {
+    width: 463px;
+    height: 197px;
+    margin-bottom: 60px;
+}
+.contact {
+    background: white;
+}   
+.copyright {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-left: 240px;
+    margin-top: 206px;
+    width: 209px;
+}
+    
+.right {
+    color: #FFFFFF;
+    font-size: 13px;
+    float: right;
+    
+}
+    
+
+
