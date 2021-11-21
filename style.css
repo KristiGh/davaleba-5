@@ -32,3 +32,10 @@ ul {
 	padding-left: 20px;
 	border: 5px;
 }
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.small-images {
+    margin-right: 25px;
+}
